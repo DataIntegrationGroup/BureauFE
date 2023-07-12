@@ -1,0 +1,24 @@
+{
+  "name": "untitled",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "datatables.net-buttons": "^2.4.1",
+    "datatables.net-buttons-dt": "^2.4.1",
+    "datatables.net-responsive": "^2.5.0",
+    "datatables.net-select": "^1.7.0",
+    "datatables.net-select-dt": "^1.7.0",
+    "datatables.net-vue3": "^2.1.1",
+    "mapbox-gl": "^2.15.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
